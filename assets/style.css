@@ -36,6 +36,7 @@ p {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    margin-bottom: 30px;
 }
 
 a {
@@ -46,8 +47,6 @@ a {
 .container {
     width: 1140px;
     margin: 0 auto;
-    min-height: 80vh;
-
 }
 
 .pd__top {
@@ -66,8 +65,13 @@ button {
     outline: none;
     border: none;
     font-size: 20px;
+}
 
 
+.sub__header {
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 /* ======== Hero Section Style Here ========== */
@@ -97,11 +101,7 @@ button {
 
 /* ==== Featured Section style Here============ */
 
-.featured__header {
-    width: 45%;
-    margin: 0 auto;
-    text-align: center;
-}
+
 
 .featured__flwoer {
     display: flex;
