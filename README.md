@@ -10,6 +10,10 @@
 <br>
 <p>Throughout this project, I learned the importance of clean code and efficient design principles. I realized that a strong foundation in HTML5 and CSS3 is essential for constructing visually appealing, functional, and accessible websites. As I continue to explore and refine my skills, I'm excited to delve deeper into the possibilities offered by these technologies, constantly evolving my abilities to craft remarkable web experiences.</p>
 
+## Here is the output layout
+
 <a href="https://wa.me/+8801740623262">
   <img align="center" alt="Final Output" src="./Final__view.png"/>
 </a>
+
+## Live Link <a href="https://the-mihir.github.io/flower-shop-assignment/"> Clik Here to see the Live page </a>

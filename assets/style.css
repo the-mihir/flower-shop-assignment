@@ -212,6 +212,7 @@ button {
     background-size: cover;
     background-position: center;
     padding: 100px 0px;
+    border-radius: 10px;
 }
 
 .subcription__info {
