@@ -49,6 +49,14 @@ a {
     margin: 0 auto;
 }
 
+.mt__100 {
+    margin-top: 100px;
+}
+
+.md__100 {
+    margin: 100px 0px;
+}
+
 .pd__top {
     padding-top: 128px;
 }
@@ -67,6 +75,11 @@ button {
     font-size: 20px;
 }
 
+.bg__color {
+    background: rgba(229, 84, 115, 0.10);
+    ;
+}
+
 
 .sub__header {
     width: 45%;
@@ -75,11 +88,6 @@ button {
 }
 
 /* ======== Hero Section Style Here ========== */
-.header__bg {
-    background: rgba(229, 84, 115, 0.10);
-    ;
-}
-
 .hero__area {
     display: flex;
 }
@@ -97,19 +105,17 @@ button {
     align-items: end;
 }
 
+/* ======== Hero Section Style End Here ========== */
+
+
 
 
 /* ==== Featured Section style Here============ */
-
-
-
 .featured__flwoer {
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
-
 }
-
 
 .f__one {
     background: rgba(167, 33, 98, 0.15);
@@ -118,14 +124,12 @@ button {
     padding: 50px 50px 0px 50px;
 }
 
-
 .f__two {
     background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
     margin-top: 20px;
     padding: 100px 50px 92px 50px;
-
 }
 
 .f__three {
@@ -134,7 +138,6 @@ button {
     margin: 10px;
     margin-top: 40px;
     padding: 100px 50px 0px 50px;
-
 }
 
 .fetured__link {
@@ -143,11 +146,12 @@ button {
 }
 
 .fetured__link a {
-
     font-size: 24px;
     font-weight: 800;
     text-decoration: underline;
 }
+
+/* ==== Featured Section style END Here============ */
 
 
 /*========== Work Way Stile=========== */
@@ -159,5 +163,102 @@ button {
     padding: 80px;
     border-radius: 8px;
     text-align: center;
-
 }
+
+/*========== Work Way End Stile=========== */
+
+
+/* =======CTA Banner Design ========== */
+.focus__word {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.cta__banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px 0px;
+}
+
+.cta__text {
+    text-align: center;
+}
+
+.cta__text p {
+    width: 65%;
+    margin: 0 auto;
+    padding-bottom: 23px;
+}
+
+/* =======CTA Banner Design END Here ========== */
+
+
+/* ======= Instagrame section =========== */
+.insta__imgs {
+    display: flex;
+    gap: 25px;
+    justify-content: space-evenly;
+}
+
+/* ======= Instagrame section End Here =========== */
+
+/* ========== Subscribe section style =========== */
+.subsription__form {
+    margin: 100px 0px;
+    background-image: url('./img/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0px;
+}
+
+.subcription__info {
+    text-align: center;
+}
+
+.sub__form {
+    text-align: center;
+}
+
+input {
+    padding: 20px 30px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    width: 50%;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+/* ========== Subscribe section End style =========== */
+
+/* ========== Footer style start here=========== */
+footer {
+    text-align: center;
+    background: #272727;
+    padding: 100px 0px;
+}
+
+footer h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+footer p {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.copy__right p {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 14px;
+    margin: 20px 0px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+/* ========== Footer style End here=========== */
